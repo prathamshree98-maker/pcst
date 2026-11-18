@@ -1,2 +1,2 @@
 PCST stands for Probablity Capabilitiy Scheduling Theory
-15th November 2026
+18th November 2026
